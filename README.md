@@ -10,7 +10,7 @@ The app uses a ML model to categorize any new messages received, and the reposit
 2. Run the following command in the app directory:
     `python run.py`
 3. Open any Browsers for example 'Google Chrome'.
-3. Go to http://0.0.0.0:3001/
+3. Go to **http://0.0.0.0:3001/**
 
 
 
